@@ -1,4 +1,4 @@
-# 📚 JavaScript Arrays
+# 📚 JavaScript Functions
 
 This repository contains beginner-friendly JavaScript questions and solutions focused on **functions**.
 

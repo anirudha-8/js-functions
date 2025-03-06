@@ -11,7 +11,7 @@ Below are the 10 questions covered in this module:
 | #  | Problem | Solution Path |
 |----|---------|--------------|
 | 1  | Write a function to check if number is even or odd. | [🔗 1-Problem](./1-Problem.js) |
-| 2  |  | [🔗 2-Problem](./2-Problem.js) |
+| 2  | Create a function to calculate area of circle with a given radius. | [🔗 2-Problem](./2-Problem.js) |
 | 3  |  | [🔗 3-Problem](./3-Problem.js) |
 | 4  |  | [🔗 4-Problem](./4-Problem.js) |
 | 5  |  | [🔗 5-Problem](./5-Problem.js) |

@@ -7,8 +7,6 @@ function findLargestNumberInArray(arr) {
 	if (arr.some((item) => typeof item !== "number"))
 		return "Invalid input! Array must contains only number items!";
 
-	if (arr.length === 1) return arr[0];
-
 	return Math.max(...arr);
 }
 

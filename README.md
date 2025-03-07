@@ -14,7 +14,7 @@ Below are the 10 questions covered in this module:
 | 2  | Create a function to calculate area of circle with a given radius. | [🔗 2-Problem](./2-Problem.js) |
 | 3  | Write a function that accepts an array and returns the sum of its element | [🔗 3-Problem](./3-Problem.js) |
 | 4  | Create a function that checks if a string starts with a specific character. | [🔗 4-Problem](./4-Problem.js) |
-| 5  |  | [🔗 5-Problem](./5-Problem.js) |
+| 5  | Write a function to find maximum of two numbers. | [🔗 5-Problem](./5-Problem.js) |
 | 6  |  | [🔗 6-Problem](./6-Problem.js) |
 | 7  |  | [🔗 7-Problem](./7-Problem.js) |
 | 8  |  | [🔗 8-Problem](./8-Problem.js) |

@@ -16,7 +16,7 @@ Below are the 10 questions covered in this module:
 | 4  | Create a function that checks if a string starts with a specific character. | [🔗 4-Problem](./4-Problem.js) |
 | 5  | Write a function to find maximum of two numbers. | [🔗 5-Problem](./5-Problem.js) |
 | 6  | Create a function that takes a number and returns its factorial. | [🔗 6-Problem](./6-Problem.js) |
-| 7  |  | [🔗 7-Problem](./7-Problem.js) |
+| 7  | Write a function that accepts a string and return its reverse. | [🔗 7-Problem](./7-Problem.js) |
 | 8  |  | [🔗 8-Problem](./8-Problem.js) |
 | 9  |  | [🔗 9-Problem](./9-Problem.js) |
 | 10 |  | [🔗 10-Problem](./10-Problem.js) |

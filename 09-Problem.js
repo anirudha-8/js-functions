@@ -4,10 +4,10 @@ function toKebabCaseConversion(str) {
 	if (typeof str !== "string" || !str.trim().length)
 		return "Invalid input! Provide non-empty string in input!";
 
-	return str.trim().toLowerCase().replace(/\s+/g, "-");
+	return str.trim().toLowerCase().replace(/\s+/g, "-").replace(/-+/g, "-");
 }
 
-const name = "Anirudha  Bele";
+const name = "Anirudha - Bele";
 
 const kebabCaseResult = toKebabCaseConversion(name);
 

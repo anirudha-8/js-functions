@@ -19,7 +19,7 @@ Below are the 10 questions covered in this module:
 | 7  | Write a function that accepts a string and return its reverse. | [🔗 7-Problem](./7-Problem.js) |
 | 8  | Create a function to find the largest number in an array. | [🔗 8-Problem](./8-Problem.js) |
 | 9  | Write a function that converts a string to kebab-case (e.g - "Hello World" -> "hello-world"). | [🔗 9-Problem](./9-Problem.js) |
-| 10 |  | [🔗 10-Problem](./10-Problem.js) |
+| 10 | Create a function that logs "Hello, World!" every time it is called. | [🔗 10-Problem](./10-Problem.js) |
 
 ---
 
